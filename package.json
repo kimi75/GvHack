@@ -33,5 +33,8 @@
     "url": "git://github.com/hakim/GvHacks.git"
   },
   "author": "hakim",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "sails-hook-autoreload": "^0.13.2"
+  }
 }
